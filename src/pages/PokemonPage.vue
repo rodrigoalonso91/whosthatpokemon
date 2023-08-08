@@ -155,6 +155,7 @@ export default {
         }
         h1 {
             margin-top: 0 !important;
+            margin-bottom: 25px;
             font-size: 1.5em !important;
         }
         img {
