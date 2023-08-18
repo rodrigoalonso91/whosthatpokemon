@@ -154,12 +154,12 @@ export default {
             margin: 0;
         }
         h1 {
-            margin-top: 0 !important;
+            margin-top: 0;
             margin-bottom: 25px;
-            font-size: 1.5em !important;
+            font-size: 1.5em;
         }
         img {
-            width: 45% !important;
+            width: 45%;
         }
     }
 </style>
